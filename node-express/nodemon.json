@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "username",
+    "DB_PASSWORD": "password",
+    "DB_COLLECTION_NAME": "databaseCollectionName",
+    "API_KEY": "key",
+    "JWT_KEY": "key"
+  }
+}
